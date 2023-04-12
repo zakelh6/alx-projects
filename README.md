@@ -3,7 +3,7 @@
 ## About ALX Africa Software Engineering
 [ALX Africa](https://www.alxafrica.com/) is a revolutionary talent development program that trains and develops Africa's most talented and ambitious software engineers. The program is designed to create lifelong learners and problem solvers who are equipped with the necessary skills to tackle Africa's most pressing problems.
 
-The Software Engineering Bootcamp is an intensive 12/months program that covers a wide range of software engineering topics, including web development, system engineering, and DevOps.
+The Software Engineering program is an intensive 12/months program that covers a wide range of software engineering topics, including web development, system engineering, and DevOps.
 
 ## About this Repository
 
