@@ -8,8 +8,8 @@ The Software Engineering program is an intensive 12/months program that covers a
 ## About this Repository
 This repository contains all the ALX Africa projects related to software engineering created by me. The following are the links to each project:
 
-1. [ALX System Engineering DevOps](https://github.com/zakelh6/alx-system_engineering-devops)
-2. [ALX Low Level Programming](https://github.com/zakelh6/alx-low_level_programming)
+1. [ALX Low Level Programming](https://github.com/zakelh6/alx-low_level_programming)
+2. [ALX System Engineering DevOps](https://github.com/zakelh6/alx-system_engineering-devops)
 3. [ALX Pre Course](https://github.com/zakelh6/alx-pre_course)
 
 Each project is contained in a separate folder within the repository, and each folder contains a README.md file with a detailed description of the project's requirements and implementation.
